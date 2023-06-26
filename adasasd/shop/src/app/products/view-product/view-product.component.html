@@ -1,0 +1,30 @@
+ <div class="container">
+      <div class="row gx-4 gx-lg-5 align-items-center">
+          <div class="col-md-6">
+            <img class="card-img-top mb-5 mb-md-0" src={{productDetails.image_url}} alt="..." />
+          </div>
+          <div class="col-md-6">
+              <h1 class="display-5 fw-bolder">{{productDetails.name}}</h1>
+
+              <div class="">
+                 <h3> Giá: <span class="">{{productDetails.price}}</span> </h3>            
+                 <!-- <a href="products/update-product/{{productDetails.id}}">Update Product</a><br>
+                  <a href="products/delete-product/{{productDetails.id}}">Delete Product</a><br> -->
+              </div>
+              <h3>Màu Sắc:  <a>{{productDetails.color}}</a></h3>
+              <h3>Thường Hiệu:  <a>{{productDetails.brand}}</a></h3>
+              <h3>Số lượng:  <a>{{productDetails.quantity}}</a></h3>
+              <h3>Vật Liệu:  <a>{{productDetails.material}}</a></h3>
+              <p class="lead">{{productDetails.description}}</p>
+              <div class="d-flex">
+                  <input class="form-control text-center me-3" id="inputQuantity" type="num" value="1" style="max-width: 3rem" />
+                  <button class="btn btn-outline-dark flex-shrink-0" type="button">
+                      <i class="bi-cart-fill me-1"></i>
+                      Add to cart
+                  </button>
+              </div>
+          </div>
+      </div>
+  </div>
+
+
