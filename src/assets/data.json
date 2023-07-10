@@ -1,0 +1,68 @@
+ [
+  {
+    "id": "1",
+    "name": " Patek Philippe",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-patek-philippe.jpg",
+    "description":"Patek Philippe is one of the few high-end brands that are coveted by fans with a scarcity of less than 100 watches released each year. Players can spend millions of dollars to be able to own a prestigious Patek Philippe watch, favored by Royal aristocrats like Queen Victoris or world stars like Ellen DeGeneres, Robert Downey. Jnr, John Mayer, Nicolas Sarkozy.",
+    "type": "watch",
+    "color": "grey",
+    "price": 35.000,
+    "discount": 10,
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "name": "Tag Heuer",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-tag-heuer.jpg",
+    "description":"One of the most prestigious Swiss watches, Tag Heuer is known for its extreme sports watchmaking technology. The brand quickly pushed its name when combined with prestigious sports leagues, racing and racing manufacturers. Not only stopping with classic wristwatches, Tag Heuer smart watches are also gradually gaining their own market share. Men who love men's watches with strong designs cannot ignore the Formula One, Aquaracer or Grand Carrera lines from Tag Heuer.",
+    "type": "watch",
+    "color": "White",
+    "price": 30.000,
+    "discount": 5,
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "name": "Rolex Swiss Made",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-rolex.jpg",
+    "description":"One of the world's only high-end watch brands that is widely known in terms of both image and popularity is Rolex. Rolex watches are appreciated for their timeless design and quality. Investing in buying genuine Rolex watches is considered an investment that is not afraid of loss if you want to sell and change to a new model. Super strong production capacity with more than 2000 watches per day has made Rolex the largest luxury watch brand in the world.",
+    "type": "watch",
+    "color": "yellow",
+    "price": 999.999,
+    "discount": 15,
+    "quantity": 0
+  },
+  {
+    "id": "4",
+    "name": "Omega",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-omega.jpg",
+    "description":"Always in the ranking of famous Swiss watches, Omega is a name not to be forgotten. Experiencing many ups and downs in the watchmaking industry, Omega made its reputation with the super cool space travel watch. Gold-plated vintage Omega time machines are most loved by Vietnamese connoisseurs.",
+    "type": "watch",
+    "color": "silver",
+    "price": 97.999,
+    "discount": 15,
+    "quantity": 0
+  },
+  {
+    "id": "5",
+    "name": "Longines",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-longines.jpg",
+    "description":"Boasting the ability to produce highly applicable inventions, precision chronograph movements have made Longines a familiar face in sports and adventure shows. Always in the top of the famous and long-standing Swiss watch, Longines design brings high-class luxury and bold Swiss quintessence for a long time. Owning a Longines Swiss watch is a reasonable investment at an inexpensive price.",
+    "type": "watch",
+    "color": "White",
+    "price": 12.999,
+    "discount": 12,
+    "quantity": 0
+  },
+  {
+    "id": "6",
+    "name": "Tissot",
+    "image": "https://a.ipricegroup.com/media/Bich/dong-ho-noi-tieng-the-gioi-tissot.jpg",
+    "description":"Dân chơi có thú vui sưu tập đồng hồ không thể không biết đến Tissot với 164 năm tuổi đến từ Thụy Sỹ. Bề dày lịch sử đi cùng chất lượng tuyệt hảo, những cải tiến công nghệ và thiết kế đẳng cấp, Tissot nghiễm nhiên giữ vững vị trí trong lòng người mộ điệu. 2 bộ sưu tập được yêu thích từ Tissot là T-Classic mang dáng dấp cổ điển thanh lịch và T-Sport mang đến sự mạnh mẽ, thể thao.",
+    "type": "watch",
+    "color": "black",
+    "price": 59.000,
+    "discount": 10,
+    "quantity": 0
+  }
+]
